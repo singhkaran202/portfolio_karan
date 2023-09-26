@@ -30,7 +30,7 @@ function App() {
       </NavBar>
 
       <Routes>
-        <Route path="/" element={<Main />} />
+        <Route path="/portfolio_karan" element={<Main />} />
         <Route path="*" element={<ErrorPage />} />
       </Routes>
 
@@ -39,7 +39,7 @@ function App() {
       <footer className="flex column footer">
         <small> &copy; 2023, all rights reserved</small>
         <small>
-          Designed & Built by{" "}
+          Designed & Built by{"Karandeep"}
           <span className="alt-text TNP">&#xae;</span>{" "}
         
           </small>

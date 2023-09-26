@@ -7,7 +7,7 @@ const ErrorPage = () => {
         We're sorry, but the page you are trying to load does not exist or may
         have been removed!
       </h1>
-      <a href="/" className="btn">
+      <a href="/portfolio_karan" className="btn">
         GO BACK TO HOME
       </a>
     </main>
