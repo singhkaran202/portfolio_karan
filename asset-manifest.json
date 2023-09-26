@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio_karan/static/css/main.256bcecb.css",
+    "main.js": "/portfolio_karan/static/js/main.d5abf0e6.js",
+    "static/media/404_.png": "/portfolio_karan/static/media/404_.99147e1f81e26a0ca600.png",
+    "static/media/good.png": "/portfolio_karan/static/media/good.9b89581edf2fa9e982ba.png",
+    "static/media/profile1.jpg": "/portfolio_karan/static/media/profile1.39db2099bd69cc960cb8.jpg",
+    "static/media/teambuild.png": "/portfolio_karan/static/media/teambuild.0cdb57d02f4ba2b10e44.png",
+    "static/media/hero.jpeg": "/portfolio_karan/static/media/hero.08fc581c40c2397e7364.jpeg",
+    "static/media/start-removebg-preview.png": "/portfolio_karan/static/media/start-removebg-preview.f8af8ad3510adb2192da.png",
+    "static/media/calander.png": "/portfolio_karan/static/media/calander.bef62283b720ca472654.png",
+    "static/media/contact-removebg-preview.png": "/portfolio_karan/static/media/contact-removebg-preview.989c6b7ed73213ed938d.png",
+    "static/media/about.img1.jpg": "/portfolio_karan/static/media/about.img1.c574ce0699bd2e14b15f.jpg",
+    "static/media/cont.svg": "/portfolio_karan/static/media/cont.8ab346319cd93fe2d132a130c84b642c.svg",
+    "static/media/about.png": "/portfolio_karan/static/media/about.f8800603d174a5074116.png",
+    "index.html": "/portfolio_karan/index.html",
+    "main.256bcecb.css.map": "/portfolio_karan/static/css/main.256bcecb.css.map",
+    "main.d5abf0e6.js.map": "/portfolio_karan/static/js/main.d5abf0e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.256bcecb.css",
+    "static/js/main.d5abf0e6.js"
+  ]
+}
