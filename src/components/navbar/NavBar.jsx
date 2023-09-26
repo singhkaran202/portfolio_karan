@@ -13,7 +13,7 @@ const NavBar = ({ onClick, children }) => {
 
   return (
     <nav className="nav-cont">
-      <a href="/" className="logo">
+      <a href="/portfolio_karan" className="logo">
         <img
           src={Karan}
           alt="Karan"

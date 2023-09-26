@@ -5,32 +5,32 @@ const navData = [
     id: uuid(),
     icon: "fa-solid fa-house",
     description: "Home",
-    link: "/#home",
+    link: "/portfolio_karan/#home",
   },
  
  {
     id: uuid(),
     icon: "fa-solid fa-address-card",
     description: "About",
-    link: "/#about",
+    link: "/portfolio_karan/#about",
   },
   {
     id: uuid(),
     icon: "fa-solid fa-code",
     description: "Projects",
-    link: "/#project",
+    link: "/portfolio_karan/#project",
   },
   {
     id: uuid(),
     icon: "fa-solid fa-toolbox",
     description: "Skills",
-    link: "/#skill",
+    link: "/portfolio_karan/#skill",
   },
   {
     id: uuid(),
     icon: "fa-solid fa-envelope",
     description: "Contact",
-    link: "/#contact",
+    link: "/portfolio_karan/#contact",
   },
 ];
 export default navData;

@@ -39,7 +39,7 @@ function App() {
       <footer className="flex column footer">
         <small> &copy; 2023, all rights reserved</small>
         <small>
-          Designed & Built by{"Karandeep"}
+          Designed & Built by{" Karandeep "}
           <span className="alt-text TNP">&#xae;</span>{" "}
         
           </small>

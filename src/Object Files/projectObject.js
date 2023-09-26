@@ -25,7 +25,7 @@ export const projectData = [
   {
     id: uuid(),
     title: "Digital Slambook ",
-    image: "/asstes/Digi-Slam.png",
+    image: "./asstes/Digi-Slam.png",
     description: "A feature-rich platform where users can effortlessly create profiles and share nostalgic memories or engage in lively discussions with other users",
     stacks: ["HTML", "CSS", "Javascript", "Node.JS", "Express", "MySQL DB", "Ejs templating engine"],
     github: "https://github.com/singhkaran202/Digital-Slambook",
